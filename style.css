@@ -63,7 +63,12 @@ div.button:hover {
 @media (max-width: 500px) {
 
   div.calc {
-  	width: 90%;
+  	width: 300px;
+  }
+
+  div.button {
+  	width: 16.5%;
+  	padding: 9px;
   }
 
   }
