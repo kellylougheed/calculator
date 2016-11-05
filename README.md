@@ -9,7 +9,7 @@ The calculator uses order of operations to calculate the answers to equations.
 <ul>
 <li> JavaScript converts the string of an equation into an array and uses order of operations to find the answer.</li><br/>
 
-<li> Calculator rejects invalid syntax (e.g. two operators in a row).</li>
+<li> Calculator rejects invalid syntax (e.g. two operators in a row).</li><br/>
 
 <li> There are delete and clear buttons to go back a space or clear the whole equation, respectively.</li><br/>
 
