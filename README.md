@@ -11,7 +11,7 @@ The calculator uses order of operations to calculate the answers to equations.
 
 <li> Calculator rejects invalid syntax (e.g. two operators in a row).</li><br/>
 
-<li> There are delete and clear buttons to go back a space or clear the whole equation, respectively.</li><br/>
+<li> The delete button allows the user to go back a space, and the clear button clears the whole equation.</li><br/>
 
-<li> Calculator's appearance generated purely with HTML and CSS.</li><br/>
+<li> Calculator's appearance is generated purely with HTML and CSS.</li><br/>
 </ul>
