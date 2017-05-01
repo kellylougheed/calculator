@@ -4,6 +4,8 @@
 
 The calculator uses order of operations to calculate the answers to equations.
 
+<img src="http://www.kellylougheed.com/images/projects/calculator.png"/>
+
 <h2>Features:</h2>
 
 <ul>
